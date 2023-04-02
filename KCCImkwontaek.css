@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'KCC Imkwontaek';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCImkwontaek/KCCImkwontaek.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCImkwontaek/KCCImkwontaek.ttf') format('truetype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCImkwontaek/KCCImkwontaek.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCImkwontaek/KCCImkwontaek.woff2') format('woff2');
+}
